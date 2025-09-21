@@ -1,3 +1,3 @@
 # Arvind-demo
-Tish is my Git Repository.
+Tish is my first Git Repository.
 Author-Arvind Kumar
